@@ -19,6 +19,6 @@ This project is a modern, responsive "Contact Us" page built using React. It's d
 - *Form Validation*
 - *Accessibility*
 
-
-
+## Setup
+ 
 
