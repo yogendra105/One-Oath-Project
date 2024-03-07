@@ -6,7 +6,7 @@ This project is a modern, responsive "Contact Us" page built using React. It's d
 
 ## Quick Links
 
-- <a href="https://silver-axolotl-bd32aa.netlify.app/" target="_blank">[Live Demo]</a>
+- <a href="https://silver-axolotl-bd32aa.netlify.app/" target="_blank">Live Demo</a>
 - [Data Store Here]([https://github.com/yourusername/yourprojectname/CONTRIBUTING.md](https://docs.google.com/spreadsheets/d/1jJAkQ79nKy9fS5Z0Gp5K9ERrFi58qREXJ3PAgz7kxXM/edit?usp=sharing))
 
 ## Project Image
