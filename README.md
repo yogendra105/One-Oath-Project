@@ -16,9 +16,19 @@ This project is a modern, responsive "Contact Us" page built using React. It's d
 ## Key Features
 
 - *Responsive Design*
-- *Form Validation*
+- *Form Validation using Yup*
+- *Form Handeling using Formik*
 - *Accessibility*
 
 ## Setup
+ # Get The Code
+ - git clone https://github.com/yogendra105/One-Oath-Project.git
+ # Start the server
+ - npm run dev
+   
+## Feel free to ask :- thakuryogichb@gmail.com
+
+### Thanks👍
+   
  
 
